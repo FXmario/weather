@@ -26,3 +26,5 @@ while i < 40 do
 	puts "#{date}: #{temp}°C"
 	i += 1
 end
+
+system "pause"
